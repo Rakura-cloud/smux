@@ -1,4 +1,4 @@
-module terminal-multiplexer
+module smux
 
 go 1.25.4
 
